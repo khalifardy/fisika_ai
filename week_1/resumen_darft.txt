@@ -1,0 +1,12 @@
+Gerak proyektil 
+
+Apa yang dimaksud dengan gerak proyektil adalah bahwa gerak suatu objek atau benda yang hanya dipengaruhi oleh 
+gaya gravitasi saja dengan kecepatan awal
+
+gerak ini terjadi hasil dari resultan gerak vertikal pada arah y dan gerak horizontal pada arah x
+
+terdapat 3 rules utama pada gerak ini :
+
+1. gerak pada arah horizontal (x) akan selalu konstan
+2. gerak /kecepatan pada arah vertikal(y) dipercepat sebesar g (percepatan gravitasi,jka dibumi sekita = 9.81)
+3. gerak X+y independen artinya tidak dipengaruhi gaya dari luar selain gravitasi, sehingga membentuk jalur parabola
